@@ -1,0 +1,1 @@
+G:\OFFICE\TECHNOLOGY\onlinecourses\EDX\C#Microsoft\Microsoft Press\Visual CSharp Step By Step\Chapter 2\Windows 8.1\PrimitiveDataTypes\PrimitiveDataTypes\PrimitiveDataTypes.csproj;neutral
